@@ -1,0 +1,5 @@
+steam_dataset_2025_csv/
+csv/
+*.csv
+venv/
+.ipynb_checkpoints/
